@@ -3,7 +3,17 @@ entries:
   mdcchart1:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-05-02T15:50:11.988524-03:00"
+    created: "2024-05-02T16:11:26.055635-03:00"
+    description: A Helm chart for deploying a sample Kubernetes application
+    digest: 9ece1ad84152acf9a809e2c22b2fe6a55be6e4de0721ddf38c3139cb57920528
+    name: mdcchart1
+    type: application
+    urls:
+    - https://iesodias.github.io/chart-mdc/mdcchart1-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-05-02T16:11:26.055426-03:00"
     description: A Helm chart for deploying a sample Kubernetes application
     digest: a7df9783c61ba256032c806b46a29c3fa54804aad2bf7f65860afe248f881251
     name: mdcchart1
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://iesodias.github.io/chart-mdc/mdcchart1-1.0.0.tgz
     version: 1.0.0
-generated: "2024-05-02T15:50:11.987732-03:00"
+generated: "2024-05-02T16:11:26.054937-03:00"
